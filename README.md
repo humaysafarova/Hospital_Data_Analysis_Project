@@ -9,10 +9,4 @@ The main goal of this project is to demonstrate the benefits of using a relation
 
 This database contains 7 tables:
 
-1.Physician
-2.Affiliations
-3.Department
-4.Nurse
-5.Patient
-6.PatientDiagnosis
-7.Procedures
+1. Physician                                                                                                                                                                                           2. Affiliations                                                                                                                                                                                        3. Department                                                                                                                                                                                           4. Nurse                                                                                                                                                                                                 5. Patient                                                                                                                                                                                             6. PatientDiagnosis                                                                                                                                                                                     7.Procedures
